@@ -1,0 +1,693 @@
+fileFormatVersion: 2
+guid: bed9ae1ddbf1e1c4e942eb2a3d8a2ba9
+timeCreated: 1584589248
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ge_jiaxin_project1b1:pCube2
+    100002: ge_jiaxin_project1b1:polySurface1
+    100004: ge_jiaxin_project1b1:polySurface2
+    100006: ge_jiaxin_project1b1:polySurface3
+    100008: ge_jiaxin_project1b1:polySurface4
+    100010: ge_jiaxin_project1b1:polySurface5
+    100012: ge_jiaxin_project1b1:transform1
+    100014: ge_jiaxin_project1b1:transform2
+    100016: ge_jiaxin_project1b1:transform3
+    100018: ge_jiaxin_project1b1:transform4
+    100020: ge_jiaxin_project1b1:transform5
+    100022: ge_jiaxin_project1b1:transform6
+    100024: ge_jiaxin_project1b:pCube2
+    100026: ge_jiaxin_project1b:persp1
+    100028: ge_jiaxin_project1b:polySurface1
+    100030: ge_jiaxin_project1b:polySurface2
+    100032: ge_jiaxin_project1b:polySurface3
+    100034: ge_jiaxin_project1b:polySurface4
+    100036: ge_jiaxin_project1b:polySurface5
+    100038: ge_jiaxin_project1b:transform1
+    100040: ge_jiaxin_project1b:transform2
+    100042: ge_jiaxin_project1b:transform3
+    100044: ge_jiaxin_project1b:transform4
+    100046: ge_jiaxin_project1b:transform5
+    100048: ge_jiaxin_project1b:transform6
+    100050: //RootNode
+    100052: group
+    100054: joint1
+    100056: joint10
+    100058: joint11
+    100060: joint12
+    100062: joint13
+    100064: joint14
+    100066: joint15
+    100068: joint16
+    100070: joint17
+    100072: joint18
+    100074: joint19
+    100076: joint2
+    100078: joint20
+    100080: joint21
+    100082: joint22
+    100084: joint23
+    100086: joint24
+    100088: joint25
+    100090: joint3
+    100092: joint4
+    100094: joint6
+    100096: joint7
+    100098: joint8
+    100100: joint9
+    100102: left
+    100104: pasted__right_hand
+    100106: pCube1
+    100108: right_hand
+    100110: right_hand1
+    100112: right_hand2
+    100114: transform1
+    100116: transform2
+    100118: transform3
+    100120: transform4
+    400000: ge_jiaxin_project1b1:pCube2
+    400002: ge_jiaxin_project1b1:polySurface1
+    400004: ge_jiaxin_project1b1:polySurface2
+    400006: ge_jiaxin_project1b1:polySurface3
+    400008: ge_jiaxin_project1b1:polySurface4
+    400010: ge_jiaxin_project1b1:polySurface5
+    400012: ge_jiaxin_project1b1:transform1
+    400014: ge_jiaxin_project1b1:transform2
+    400016: ge_jiaxin_project1b1:transform3
+    400018: ge_jiaxin_project1b1:transform4
+    400020: ge_jiaxin_project1b1:transform5
+    400022: ge_jiaxin_project1b1:transform6
+    400024: ge_jiaxin_project1b:pCube2
+    400026: ge_jiaxin_project1b:persp1
+    400028: ge_jiaxin_project1b:polySurface1
+    400030: ge_jiaxin_project1b:polySurface2
+    400032: ge_jiaxin_project1b:polySurface3
+    400034: ge_jiaxin_project1b:polySurface4
+    400036: ge_jiaxin_project1b:polySurface5
+    400038: ge_jiaxin_project1b:transform1
+    400040: ge_jiaxin_project1b:transform2
+    400042: ge_jiaxin_project1b:transform3
+    400044: ge_jiaxin_project1b:transform4
+    400046: ge_jiaxin_project1b:transform5
+    400048: ge_jiaxin_project1b:transform6
+    400050: //RootNode
+    400052: group
+    400054: joint1
+    400056: joint10
+    400058: joint11
+    400060: joint12
+    400062: joint13
+    400064: joint14
+    400066: joint15
+    400068: joint16
+    400070: joint17
+    400072: joint18
+    400074: joint19
+    400076: joint2
+    400078: joint20
+    400080: joint21
+    400082: joint22
+    400084: joint23
+    400086: joint24
+    400088: joint25
+    400090: joint3
+    400092: joint4
+    400094: joint6
+    400096: joint7
+    400098: joint8
+    400100: joint9
+    400102: left
+    400104: pasted__right_hand
+    400106: pCube1
+    400108: right_hand
+    400110: right_hand1
+    400112: right_hand2
+    400114: transform1
+    400116: transform2
+    400118: transform3
+    400120: transform4
+    2000000: ge_jiaxin_project1b:persp1
+    2000002: left
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: joint1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint19
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint14
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint21
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint16
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint22
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint17
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint3
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint24
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint25
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint6
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint10
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint7
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint11
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint8
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint12
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint9
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint13
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint23
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint18
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint4
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ge_jiaxin_project3b(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b:pCube2
+      parentName: ge_jiaxin_project3b(Clone)
+      position: {x: 1.5810623, y: 0.26671758, z: -1.0911117}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.958561, y: 0.59847444, z: 2.0284538}
+    - name: ge_jiaxin_project1b:polySurface1
+      parentName: ge_jiaxin_project1b:pCube2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b:transform6
+      parentName: ge_jiaxin_project1b:polySurface1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b:polySurface2
+      parentName: ge_jiaxin_project1b:pCube2
+      position: {x: 0.17154776, y: 0, z: -0.3045884}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1638565, y: 1, z: 1}
+    - name: ge_jiaxin_project1b:transform5
+      parentName: ge_jiaxin_project1b:polySurface2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b:polySurface3
+      parentName: ge_jiaxin_project1b:pCube2
+      position: {x: 0.08172411, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b:transform4
+      parentName: ge_jiaxin_project1b:polySurface3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b:polySurface4
+      parentName: ge_jiaxin_project1b:pCube2
+      position: {x: 0.10841348, y: 0, z: -0.45610785}
+      rotation: {x: 0, y: -0.05704092, z: -0, w: 0.9983719}
+      scale: {x: 1, y: 1, z: 0.8416159}
+    - name: ge_jiaxin_project1b:transform3
+      parentName: ge_jiaxin_project1b:polySurface4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b:polySurface5
+      parentName: ge_jiaxin_project1b:pCube2
+      position: {x: 0.013476715, y: -0.096096724, z: -0.5680945}
+      rotation: {x: 0, y: -0.14405802, z: -0, w: 0.98956925}
+      scale: {x: 0.7490159, y: 0.8038004, z: 0.70958686}
+    - name: ge_jiaxin_project1b:transform2
+      parentName: ge_jiaxin_project1b:polySurface5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b:transform1
+      parentName: ge_jiaxin_project1b:pCube2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b:persp1
+      parentName: ge_jiaxin_project3b(Clone)
+      position: {x: -7.649799, y: 5.4904118, z: -0.10691036}
+      rotation: {x: 0.16360722, y: 0.7532382, z: -0.20421521, w: 0.60345757}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group
+      parentName: ge_jiaxin_project3b(Clone)
+      position: {x: -0.53717494, y: 2.2979279, z: -2.9379487}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b1:pCube2
+      parentName: group
+      position: {x: 2.1182373, y: -2.0312102, z: -0.14055043}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.958561, y: 0.59847444, z: 2.0284538}
+    - name: ge_jiaxin_project1b1:polySurface1
+      parentName: ge_jiaxin_project1b1:pCube2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b1:transform6
+      parentName: ge_jiaxin_project1b1:polySurface1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b1:polySurface2
+      parentName: ge_jiaxin_project1b1:pCube2
+      position: {x: 0.17154776, y: 0, z: -0.3045884}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1638565, y: 1, z: 1}
+    - name: ge_jiaxin_project1b1:transform5
+      parentName: ge_jiaxin_project1b1:polySurface2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b1:polySurface3
+      parentName: ge_jiaxin_project1b1:pCube2
+      position: {x: 0.08172411, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b1:transform4
+      parentName: ge_jiaxin_project1b1:polySurface3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b1:polySurface4
+      parentName: ge_jiaxin_project1b1:pCube2
+      position: {x: 0.10841348, y: 0, z: -0.45610785}
+      rotation: {x: 0, y: -0.05704092, z: -0, w: 0.9983719}
+      scale: {x: 1, y: 1, z: 0.8416159}
+    - name: ge_jiaxin_project1b1:transform3
+      parentName: ge_jiaxin_project1b1:polySurface4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b1:polySurface5
+      parentName: ge_jiaxin_project1b1:pCube2
+      position: {x: 0.013476715, y: -0.096096724, z: -0.5680945}
+      rotation: {x: 0, y: -0.14405802, z: -0, w: 0.98956925}
+      scale: {x: 0.7490159, y: 0.8038004, z: 0.70958686}
+    - name: ge_jiaxin_project1b1:transform2
+      parentName: ge_jiaxin_project1b1:polySurface5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ge_jiaxin_project1b1:transform1
+      parentName: ge_jiaxin_project1b1:pCube2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pasted__right_hand
+      parentName: group
+      position: {x: 3.5641909, y: 2.0341063, z: 0.9694418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: -0.121, y: 0.120570034, z: 0.120570034}
+    - name: transform3
+      parentName: pasted__right_hand
+      position: {x: -0.16375484, y: -0.38102415, z: 1.2565074}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint1
+      parentName: ge_jiaxin_project3b(Clone)
+      position: {x: 0.0023129114, y: 2.805336, z: 0}
+      rotation: {x: -0.70399874, y: 0.71020126, z: 4.3487284e-17, w: -4.310749e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint2
+      parentName: joint1
+      position: {x: -0.6223829, y: 1.6393137e-16, z: 2.7829688e-32}
+      rotation: {x: 0, y: 0, z: 0.0064819558, w: 0.999979}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint3
+      parentName: joint2
+      position: {x: -0.5023732, y: -3.3358732e-15, z: -7.9756165e-19}
+      rotation: {x: 0.9998561, y: -0.016964298, z: -1.2639387e-10, w: 0.0000000074495086}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint4
+      parentName: joint3
+      position: {x: -0.44769496, y: 6.8348105e-16, z: -1.1494169e-18}
+      rotation: {x: 0, y: -0.000000010871378, z: 0.7295658, w: 0.6839106}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint6
+      parentName: joint4
+      position: {x: -0.64062375, y: -6.93849e-17, z: -0.00000000952614}
+      rotation: {x: 0, y: -0, z: -0.0018656619, w: 0.9999983}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint7
+      parentName: joint6
+      position: {x: -0.44177836, y: 1.0659032e-16, z: -0.0000000065729076}
+      rotation: {x: -5.17258e-26, y: -0.000000006932774, z: -0.032313075, w: 0.9994778}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint8
+      parentName: joint7
+      position: {x: -0.85257405, y: -6.5130057e-10, z: 0.040106803}
+      rotation: {x: 1.938831e-26, y: -0.000000007113219, z: 0.011418087, w: 0.99993485}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint9
+      parentName: joint8
+      position: {x: -0.45873487, y: 3.1446467e-11, z: -0.001975477}
+      rotation: {x: -0.6912989, y: 0.7225689, z: 5.033936e-10, w: -4.8160864e-10}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint10
+      parentName: joint4
+      position: {x: 0.62810653, y: -0.086816534, z: 0.000000009423491}
+      rotation: {x: 0.06953918, y: 0.9975792, z: 1.641084e-13, w: -2.353348e-12}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint11
+      parentName: joint10
+      position: {x: -0.4594057, y: -4.510281e-17, z: -0.0000000068287993}
+      rotation: {x: 3.2313946e-26, y: -0.0000000074436546, z: -0.011666027, w: 0.999932}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint12
+      parentName: joint11
+      position: {x: -0.9008445, y: -2.7123121e-11, z: -0.035505258}
+      rotation: {x: 0.0014857092, y: 0.015315802, z: 0.020514352, w: 0.9996711}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint13
+      parentName: joint12
+      position: {x: -0.45755798, y: 0.0030713626, z: -0.027922535}
+      rotation: {x: 0, y: 0, z: -0.755269, w: 0.65541494}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint24
+      parentName: joint4
+      position: {x: 0.026582, y: 0.30034685, z: 1.0646074e-10}
+      rotation: {x: 3.7193072e-26, y: -3.2837633e-10, z: -0.71900433, w: 0.6950056}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint25
+      parentName: joint24
+      position: {x: -0.24858502, y: 3.4693934e-17, z: -1.1346583e-10}
+      rotation: {x: 0.9996106, y: -0.027904985, z: -6.591017e-14, w: 2.36103e-12}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint14
+      parentName: joint1
+      position: {x: 0.07494948, y: -0.44424534, z: -5.4404364e-17}
+      rotation: {x: 0, y: 0, z: 0.9976671, w: 0.06826768}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint15
+      parentName: joint14
+      position: {x: -0.7098282, y: 9.436896e-16, z: -1.1841176e-17}
+      rotation: {x: 1.204144e-35, y: -5.0606397e-18, z: 0.026962172, w: 0.9996365}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint16
+      parentName: joint15
+      position: {x: -0.81689876, y: -5.412337e-16, z: -8.265055e-18}
+      rotation: {x: -1.2040357e-35, y: -7.9092e-18, z: -0.023389142, w: 0.9997265}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint17
+      parentName: joint16
+      position: {x: -0.9193741, y: 1.6792123e-15, z: -1.4539048e-17}
+      rotation: {x: 0.77765834, y: 0.058482774, z: -0.028570956, w: -0.62530863}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint18
+      parentName: joint17
+      position: {x: -0.2035714, y: -5.8113236e-17, z: -5.1431516e-19}
+      rotation: {x: -0.01031561, y: 0.99994683, z: 6.122909e-17, w: -6.316489e-19}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint19
+      parentName: joint1
+      position: {x: 0.08454823, y: 0.47312936, z: 5.794163e-17}
+      rotation: {x: -0.024036456, y: 0.9997111, z: 0.000000007448428, w: -1.7908555e-10}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint20
+      parentName: joint19
+      position: {x: -0.7373222, y: 1.0894063e-15, z: -4.339518e-18}
+      rotation: {x: 3.232271e-27, y: 3.880771e-10, z: -0.026043411, w: 0.99966085}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint21
+      parentName: joint20
+      position: {x: -0.7706236, y: -5.608574e-16, z: 5.979198e-10}
+      rotation: {x: 2.019585e-28, y: 2.390414e-10, z: 0.010002441, w: 0.99995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint22
+      parentName: joint21
+      position: {x: -0.94334286, y: -1.8773886e-15, z: 4.5097343e-10}
+      rotation: {x: -1.0720591e-15, y: -4.2375065e-10, z: 0.044453714, w: 0.9990115}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint23
+      parentName: joint22
+      position: {x: -0.19151378, y: -1.1505266e-16, z: -1.6214775e-10}
+      rotation: {x: 0.0043858383, y: 0.9999904, z: 0.0000000074419, w: 3.2639284e-11}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left
+      parentName: ge_jiaxin_project3b(Clone)
+      position: {x: 5.946147, y: 7.596185, z: 7.25966}
+      rotation: {x: 0.08172104, y: -0.9136751, z: 0.22949934, w: 0.3253451}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube1
+      parentName: ge_jiaxin_project3b(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform1
+      parentName: pCube1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_hand
+      parentName: ge_jiaxin_project3b(Clone)
+      position: {x: -2.8084874, y: 4.3012667, z: 0.018880606}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.120570034, y: 0.120570034, z: 0.120570034}
+    - name: transform2
+      parentName: right_hand
+      position: {x: -0.16375484, y: -0.38102415, z: 1.2565074}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_hand1
+      parentName: ge_jiaxin_project3b(Clone)
+      position: {x: -0.26208872, y: 2.5471427, z: -0.020175368}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform4
+      parentName: right_hand1
+      position: {x: 0.26208872, y: -2.5471427, z: 0.020175368}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_hand2
+      parentName: ge_jiaxin_project3b(Clone)
+      position: {x: 0.7387698, y: 2.5471427, z: -0.020175368}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
