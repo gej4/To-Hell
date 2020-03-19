@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: bed9ae1ddbf1e1c4e942eb2a3d8a2ba9
-timeCreated: 1584589248
+timeCreated: 1584589921
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -66,6 +66,7 @@ ModelImporter:
     100116: transform2
     100118: transform3
     100120: transform4
+    100122: joint5
     400000: ge_jiaxin_project1b1:pCube2
     400002: ge_jiaxin_project1b1:polySurface1
     400004: ge_jiaxin_project1b1:polySurface2
@@ -127,8 +128,13 @@ ModelImporter:
     400116: transform2
     400118: transform3
     400120: transform4
+    400122: joint5
     2000000: ge_jiaxin_project1b:persp1
     2000002: left
+    2100000: lambert1
+    2300000: right_hand2
+    3300000: right_hand2
+    4300000: right_hand2
     9500000: //RootNode
   externalObjects: {}
   materials:
@@ -142,7 +148,8 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
+    rigImportErrors: "Avatar creation failed:\n\tTransform 'joint21' for human bone
+      'LeftLowerLeg' not found\n"
     rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
@@ -160,7 +167,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.1
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
